@@ -160,6 +160,8 @@
 		line-height: 1;
 		letter-spacing: 0.2em;
 		text-transform: none;
+		text-align: justify;
+		text-justify: inter-word;
 	}
 
 		@media screen and (max-width: 1680px) {
